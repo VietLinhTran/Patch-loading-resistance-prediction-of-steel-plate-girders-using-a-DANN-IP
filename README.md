@@ -1,0 +1,1 @@
+# Patch-loading-resistance-prediction-of-steel-plate-girders-using-a-deep-artificial-neural-network-an
